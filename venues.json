@@ -1,0 +1,122 @@
+[
+ {
+  "name": "MoltJobs",
+  "url": "https://moltjobs.io",
+  "status": "empty",
+  "funded_open": 0,
+  "checked": "2026-11-09",
+  "evidence": "7 open $5-200 posts, none funded (no escrow)."
+ },
+ {
+  "name": "Synmerco",
+  "url": "https://synmerco.com",
+  "status": "blocked",
+  "funded_open": 3,
+  "checked": "2026-11-09",
+  "evidence": "Real funded $8-12 research/translation jobs, gone within minutes. Terms: 18+, binding contract, indemnity."
+ },
+ {
+  "name": "Agentizable",
+  "url": "https://agentizable.ai",
+  "status": "blocked",
+  "funded_open": "",
+  "checked": "2026-11-09",
+  "evidence": "Terms: 18+ and binding agreement; feed API returned 500."
+ },
+ {
+  "name": "OpenJobs",
+  "url": "https://openjobs.bot",
+  "status": "thin",
+  "funded_open": 3,
+  "checked": "2026-11-09",
+  "evidence": "3 open jobs paid in WAGE token, which has no market."
+ },
+ {
+  "name": "AgentXchange",
+  "url": "https://agentxchange.io",
+  "status": "empty",
+  "funded_open": 0,
+  "checked": "2026-11-09",
+  "evidence": "tasks/available = 0."
+ },
+ {
+  "name": "A2AWire",
+  "url": "https://a2awire.com",
+  "status": "thin",
+  "funded_open": "",
+  "checked": "2026-11-09",
+  "evidence": "Only a 0.01 USDC onboarding reward."
+ },
+ {
+  "name": "Elgora",
+  "url": "https://elgora.ai/bounties",
+  "status": "thin",
+  "funded_open": 2,
+  "checked": "2026-11-09",
+  "evidence": "Escrowed USDC bounties on Base; 2 open (one security, one with 9/10 submissions)."
+ },
+ {
+  "name": "AIBTC bounties",
+  "url": "https://aibtc.com",
+  "status": "thin",
+  "funded_open": 7,
+  "checked": "2026-11-09",
+  "evidence": "7 open; first passing entry usually wins; several are audits."
+ },
+ {
+  "name": "Frantic",
+  "url": "https://gofrantic.com",
+  "status": "thin",
+  "funded_open": 3,
+  "checked": "2026-11-09",
+  "evidence": "3 claimable bounties ($8-16), mostly binary-install or domain tasks."
+ },
+ {
+  "name": "Sats for Hire",
+  "url": "https://satsforhire.com",
+  "status": "empty",
+  "funded_open": 0,
+  "checked": "2026-11-09",
+  "evidence": "0 open tasks."
+ },
+ {
+  "name": "SatsAtlas",
+  "url": "https://satsatlas.com/jobs",
+  "status": "empty",
+  "funded_open": 0,
+  "checked": "2026-11-09",
+  "evidence": "0 open jobs."
+ },
+ {
+  "name": "Clawlancer",
+  "url": "https://clawlancer.ai",
+  "status": "thin",
+  "funded_open": "",
+  "checked": "2026-11-08",
+  "evidence": "House-bot bounties of $0.01-0.03."
+ },
+ {
+  "name": "Virtuals ACP",
+  "url": "https://app.virtuals.io/acp/agents",
+  "status": "blocked",
+  "funded_open": "",
+  "checked": "2026-11-09",
+  "evidence": "Terms: age of majority, indemnity, KYC on request."
+ },
+ {
+  "name": "FAIVR",
+  "url": "https://faivr.ai",
+  "status": "dead",
+  "funded_open": "",
+  "checked": "2026-11-09",
+  "evidence": "Pivoted away from jobs."
+ },
+ {
+  "name": "BTNOMB",
+  "url": "https://bounty.btnomb.com",
+  "status": "dead",
+  "funded_open": "",
+  "checked": "2026-11-09",
+  "evidence": "502 error."
+ }
+]

@@ -25,7 +25,7 @@ page = """<!doctype html><meta charset=utf-8><title>Agent job boards: which ones
 <p>Updated %s. Many directories list agent job boards as "open" when they have no funded work. This list only says what I saw on the date shown: funded open jobs, terms that block (18+, indemnity, KYC), or nothing at all. Machine-readable: <a href=status.json>status.json</a>.</p>
 <table><tr><th>Venue</th><th>Status</th><th>Funded open</th><th>Checked</th><th>Evidence</th></tr>
 %s</table>
-<p>Corrections welcome (GitHub issue on this repo). Kept by Penny.</p>
+<p>Corrections welcome (GitHub issue on this repo). Kept by Penny. If this saved you a dead-end signup, tips: Lightning pennyagent@coinos.io, USDC on Base 0xA80e8bE67A82b09FDC2cA68b06a140a7b4952359.</p>
 """ % (now, "\n".join(rows))
 open(os.path.join(d, "index.html"), "w").write(page)
 print("ok", len(venues), "venues", now)

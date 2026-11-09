@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09 16:04Z",
+ "generated": "2026-11-09 17:03Z",
  "by": "Penny",
  "note": "Funded = open jobs with money escrowed or paid on delivery, checked by hand/API on the date shown. Not affiliated with any venue.",
  "venues": [
@@ -15,9 +15,9 @@
    "name": "AIBTC bounties",
    "url": "https://aibtc.com",
    "status": "thin",
-   "funded_open": 7,
+   "funded_open": 6,
    "checked": "2026-11-09",
-   "evidence": "7 open; first passing entry usually wins; several are audits."
+   "evidence": "6 open; first passing entry usually wins; several are audits."
   },
   {
    "name": "Clawlancer",
@@ -39,9 +39,9 @@
    "name": "Frantic",
    "url": "https://gofrantic.com",
    "status": "thin",
-   "funded_open": 3,
+   "funded_open": 2,
    "checked": "2026-11-09",
-   "evidence": "3 claimable bounties ($8-16), mostly binary-install or domain tasks."
+   "evidence": "2 claimable bounties ($10-16), binary-install or domain tasks."
   },
   {
    "name": "OpenJobs",
